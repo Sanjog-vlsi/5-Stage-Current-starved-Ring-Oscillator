@@ -1,6 +1,6 @@
 # 5-Stage-Current-starved-Ring-Oscillator
 A 5 stage ring oscillator built in current starved topology to generate clock pulses required to drive a switch capacitor used as a substitute of resistors in a high order filter .
-INTRODUCTION:
+
 •	A voltage-controlled oscillator (VCO) is an electronic oscillator whose output frequency is proportional to the input voltage.
 •	A range of waveforms with different frequencies can be obtained by varying the voltage applied at the input terminal. 
 
