@@ -3,7 +3,7 @@ A 5 stage ring oscillator built in current starved topology to generate clock pu
 INTRODUCTION:
 •	A voltage-controlled oscillator (VCO) is an electronic oscillator whose output frequency is proportional to the input voltage.
 •	A range of waveforms with different frequencies can be obtained by varying the voltage applied at the input terminal. 
-•	This project aims to design and implement a VCO at the IC level for generating clock pulses to drive a switched capacitor circuit, which can be used to replace 
+
 
 CIRCUIT DESIGN FOR RING OSCILLATOR WITH BUFFER
 <img width="940" height="351" alt="image" src="https://github.com/user-attachments/assets/569c632e-b6e9-4085-8825-1a47d1bd35b2" />
