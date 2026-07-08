@@ -46,7 +46,8 @@ CIRCUIT DESIGN OF MASTER SLAVE D-FLIP FLOP:
 
  
 Circuit and output waveform of VCO using external capacitors (without D flip-flop), showing a duty cycle greater than 50%.
-<img width="602" height="206" alt="Picture1" src="https://github.com/user-attachments/assets/b46963a3-d439-44d5-9da6-f7c838eb9cd5" />
+<img width="1358" height="464" alt="image" src="https://github.com/user-attachments/assets/92162a83-ea9f-4df8-8507-ad92a497b24e" />
+
 
 
 
